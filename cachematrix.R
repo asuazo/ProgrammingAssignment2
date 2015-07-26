@@ -4,6 +4,7 @@
 ##   and there may be some benefit to caching the inverse of a matrix 
 ##   rather than computing it repeatedly.
 ##
+## A.Suazo, July 2015
 
 ## 1.This function creates a special "matrix" object that can cache its inverse.
 
